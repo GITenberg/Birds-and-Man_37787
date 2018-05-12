@@ -1,0 +1,39 @@
+_repo: Birds-and-Man_37787
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37787-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hudson, W. H. (William Henry)
+    aliases:
+    - Hudson, William Henry
+    - Harford, Henry
+    birthdate: 1841
+    deathdate: 1922
+    gutenberg_agent_id: '484'
+    url: http://www.gutenberg.org/2009/agents/484
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Hudson
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Birds
+gutenberg_issued: '2011-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37787'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds'
+- !lcc 'QL'
+tableOfContents: 'Birds at their best -- Birds and man -- Daws in the west country
+  -- Early spring in Savernake Forest -- A wood wren at Wells -- The secret of the
+  willow wren -- Secret of the charm of flowers -- Ravens in Somerset -- Owls in a
+  village -- The strange and beautiful sheldrake -- Geese: an appreciation and a memory
+  -- The Dartford warbler -- Vert--vert; or parrot gossip -- Something pretty in a
+  glass case -- Selborne (1896).'
+title: Birds and Man
+url: http://www.gutenberg.org/ebooks/37787
